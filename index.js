@@ -15,5 +15,6 @@ function johnLennonFacts(facts) {
     var fact = facts[0]
     var newFact = fact + "!!!"
     newFacts.push(newFact)
+    ++i
   }
 }
