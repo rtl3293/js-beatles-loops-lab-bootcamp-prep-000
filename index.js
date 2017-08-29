@@ -5,6 +5,5 @@ function theBeatlesPlay(musicians, instruments) {
       instrument = instruments[i]
       array.push() = (`${member} plays ${instrument}`)
     }
-  }
   return array
 }
